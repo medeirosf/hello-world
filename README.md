@@ -1,2 +1,2 @@
 # hello-world
-Upholding a time-honored tradition
+Upholding a time-honored tradition in computer programming.
